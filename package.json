@@ -1,0 +1,41 @@
+{
+  "name": "mongo-rest-server",
+  "version": "1.0.0",
+  "description": "REST API server for MongoDB applications.",
+  "main": "index.js",
+  "scripts": {
+    "test": "nodemon",
+    "start": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ClockworkSquirrel/node-mongo-rest-server.git"
+  },
+  "keywords": [
+    "node",
+    "nodejs",
+    "node-js",
+    "mongo",
+    "mongodb",
+    "rest",
+    "api",
+    "server",
+    "heroku"
+  ],
+  "author": "ClockworkSquirrel",
+  "license": "AGPL-3.0-only",
+  "bugs": {
+    "url": "https://github.com/ClockworkSquirrel/node-mongo-rest-server/issues"
+  },
+  "homepage": "https://github.com/ClockworkSquirrel/node-mongo-rest-server#readme",
+  "dependencies": {
+    "body-parser": "1.18.3",
+    "dotenv": "6.2.0",
+    "express": "4.16.4",
+    "mongoose": "5.4.5",
+    "uuid": "3.3.2"
+  },
+  "engines": {
+    "node": "10.14.1"
+  }
+}

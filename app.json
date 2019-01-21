@@ -1,0 +1,12 @@
+{
+    "name": "mongo-rest-server",
+    "description": "REST API server for MongoDB applications.",
+    "repository": "https://github.com/ClockworkSquirrel/node-mongo-rest-api",
+    "keywords": ["node", "nodejs", "node-js", "mongo", "mongodb", "rest", "api", "server", "heroku"],
+    "env": {
+        "MONGODB_URI": {
+            "description": "The connection string for your MongoDB.",
+            "required": true
+        }
+    }
+}
