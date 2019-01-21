@@ -9,6 +9,8 @@
 
 **REST API server for MongoDB applications. Preloaded with sample Todo List application.**
 
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy)
+
 ## License
 Licensed under the [GNU Affero General Public License v3](LICENSE.txt).
 > https://www.gnu.org/licenses/agpl-3.0.en.html
