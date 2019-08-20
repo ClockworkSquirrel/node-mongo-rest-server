@@ -12,5 +12,5 @@
 [![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy)
 
 ## License
-Licensed under the [GNU Affero General Public License v3](LICENSE.txt).
-> https://www.gnu.org/licenses/agpl-3.0.en.html
+Licensed under the [MIT License](LICENSE.txt).
+> https://opensource.org/licenses/MIT
