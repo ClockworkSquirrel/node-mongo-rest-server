@@ -4,7 +4,7 @@
   "description": "REST API server for MongoDB applications.",
   "main": "index.js",
   "scripts": {
-    "test": "nodemon",
+    "test": "npx nodemon",
     "start": "node index.js"
   },
   "repository": {
@@ -23,7 +23,7 @@
     "heroku"
   ],
   "author": "ClockworkSquirrel",
-  "license": "AGPL-3.0-only",
+  "license": "MIT",
   "bugs": {
     "url": "https://github.com/ClockworkSquirrel/node-mongo-rest-server/issues"
   },
