@@ -3,6 +3,7 @@
 ![](https://img.shields.io/github/last-commit/ClockworkSquirrel/node-mongo-rest-server.svg?style=for-the-badge)
 
 # MongoDB REST Server
+![](https://img.shields.io/travis/ClockworkSquirrel/node-mongo-rest-server?style=for-the-badge)
 ![](https://img.shields.io/david/ClockworkSquirrel/node-mongo-rest-server.svg?style=for-the-badge)
 ![](https://img.shields.io/snyk/vulnerabilities/github/ClockworkSquirrel/node-mongo-rest-server.svg?style=for-the-badge)
 ![](https://img.shields.io/github/license/ClockworkSquirrel/node-mongo-rest-server.svg?style=for-the-badge)
