@@ -4,7 +4,7 @@
   "description": "REST API server for MongoDB applications.",
   "main": "index.js",
   "scripts": {
-    "test": "npx nodemon",
+    "serve": "npx nodemon",
     "start": "node index.js"
   },
   "repository": {
